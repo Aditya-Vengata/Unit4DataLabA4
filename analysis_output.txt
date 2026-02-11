@@ -1,0 +1,13 @@
+PEPSI vs COCA-COLA — STOCK ANALYSIS RESULTS
+Period: 2019-01-02 to 2023-12-01
+
+Avg Close   — KO: $55.31  |  PEP: $153.00
+Total Return— KO: 25.57%  |  PEP: 52.80%
+Avg Volume  — KO: 12,143,603  |  PEP: 5,203,578
+Volatility  — KO: $5.63  |  PEP: $21.01
+Max Close   — KO: $65.27  |  PEP: $189.53
+Min Close   — KO: $43.45  |  PEP: $110.94
+Total Divs  — KO: $8.52  |  PEP: $21.52
+
+Score: KO=2 PEP=4
+WINNER: PepsiCo (PEP)
